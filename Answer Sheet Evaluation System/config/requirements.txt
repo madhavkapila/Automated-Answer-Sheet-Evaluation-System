@@ -1,0 +1,13 @@
+pymupdf 
+pdfplumber 
+pandas 
+numpy 
+easyocr 
+pdf2image 
+nltk 
+scikit-learn 
+sentence-transformers 
+flask 
+reportlab 
+textblob
+--upgrade pymupdf
